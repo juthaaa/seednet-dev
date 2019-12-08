@@ -319,7 +319,7 @@ http://www.templatemo.com/tm-509-hydro
   -----------------------------------------*/
 
   #home {
-    background: url('../images/home-bg.jpg') no-repeat center center;
+    background: url('../images/seed.jpg') no-repeat center center;
     background-size: cover;
     vertical-align: middle;
     display: -webkit-box;
@@ -431,11 +431,12 @@ http://www.templatemo.com/tm-509-hydro
     left: 0px;
     right: 0px;
     bottom: 0px;
-    display: flex;
-    align-items: center;
+    display: list-item;
+    align-items:center;
     justify-content: center;
     flex-direction: column;
-    text-align: center;
+    text-align: left;
+    padding-left: 10px;
   }
 
   .work-thumb .work-info:after {
@@ -445,7 +446,7 @@ http://www.templatemo.com/tm-509-hydro
     right: 0px;
     bottom: 0px;
     content: "";
-    background: #ce3232;
+    background: #ddd;
     opacity: 0;
     transition: 0.5s;
   }
