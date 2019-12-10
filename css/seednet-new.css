@@ -11,10 +11,7 @@
      font-family: 'Kanit', sans-serif;
  }
  
- body {
-     padding: 1rem 0;
-     background: #f9f9fb;
- }
+ body {}
  
  .cardnews {
      width: 100%;
@@ -48,7 +45,7 @@
  
  .cardnews-img {
      position: relative;
-     height: 224px;
+     height: 300px;
      width: 100%;
      background-color: #fff;
      transition: opacity 0.2s ease;
