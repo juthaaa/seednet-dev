@@ -567,28 +567,13 @@ section {
 .blog-info {
     padding: 25px 25px;
     text-align: left;
+    height: 250px;
 }
 
 .blog-info h3 {
     margin: 0;
     padding: 8px 0 6px 0;
     text-transform: capitalize;
-}
-
-.blog-info .section-btn {
-    background: #f0f0f0;
-    color: #393939;
-    margin-top: 20px;
-}
-
-.blog-info .section-btn:hover {
-    background: #00F260;
-    /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #0575E6, #00F260);
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #0575E6, #00F260);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    color: #ffffff;
 }
 
 .blog-thumb ul {
