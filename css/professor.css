@@ -1,0 +1,28 @@
+div.card-box{
+    padding: 110px 20px 20px 20px;
+    background: white;
+    /* box-shadow: 0px 0px 30px #e5dfdf; */
+    border-radius: 20px;
+}
+
+a.btn-seednet{
+    background: white;
+    color: #9d0b0b;
+    border-color: #9d0b0b;
+}
+a.btn-seednet:hover{
+    background: #9d0b0b;
+    color: white;
+    border-color: #9d0b0b;
+}
+.radius-img-profes {
+    border-radius: 50%;
+  }
+.set-img{
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+    padding: 0;
+    position: relative;
+    bottom: -120px;
+}
