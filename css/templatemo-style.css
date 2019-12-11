@@ -565,9 +565,11 @@ section {
 }
 
 .blog-info {
-    padding: 25px 25px;
+    padding-top: 25px;
     text-align: left;
-    height: 250px;
+    height: 200px;
+    padding-right: 25px;
+    padding-left: 25px;
 }
 
 .blog-info h3 {
