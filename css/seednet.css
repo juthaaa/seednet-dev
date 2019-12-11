@@ -11,6 +11,29 @@
      font-family: 'Kanit', sans-serif;
  }
  
+ table {
+     margin: 0 auto;
+ }
+ 
+ th {
+     color: #666363;
+     font-size: 14px;
+     font-weight: bold;
+     line-height: 25px;
+ }
+ 
+ td {
+     color: #757575;
+     font-size: 14px;
+     font-weight: normal;
+     line-height: 25px;
+ }
+ 
+ td {
+     padding-left: 10px;
+     text-align: left;
+ }
+ 
  .cardnews {
      width: 100%;
      height: 600px;
