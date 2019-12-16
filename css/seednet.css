@@ -177,3 +177,12 @@
      -webkit-box-orient: vertical;
      overflow: hidden;
  }
+ /*navbar-dropdown*/
+ 
+ .navbar-dropdown-bg {
+     background-color: #fff;
+ }
+ 
+ .custom-navbar.top-nav-collapse.navbar-dropdown-bg {
+     background: #fff;
+ }

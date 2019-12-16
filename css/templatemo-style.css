@@ -935,7 +935,11 @@ footer span,
         height: inherit;
     }
     .blog-info {
-        padding: 45px 25px;
+        padding-top: 25px;
+        text-align: left;
+        height: 200px;
+        padding-right: 25px;
+        padding-left: 25px;
     }
     .media.blog-thumb .media-left {
         display: block;
