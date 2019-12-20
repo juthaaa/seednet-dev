@@ -4,17 +4,10 @@
     display: table;
     text-align: center;
 }
-.bg-about-us {
-    margin-top: 25px;
-    margin-left: 25px;
-    background-color: silver;
-    padding: 20px;
-    
-}
-.bg-about-us p{
-    padding-top:120px;
-    text-align: center;
-    font-size: 18px;
+
+.heading-about {
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .heading-about h2{
@@ -27,14 +20,21 @@
     font-size: 25px;
 }
 
-.topic-objective {
-    margin-top: 25px;
-}
-
-.topic-objective h1{
+.topic-objective{
     padding-left: 10px;
-    border-left: brown 5px solid;
+    border-left: crimson solid 5px;
     text-align: left;
     font-size: 35px;
-    
+}
+
+.bg-about-us{
+    margin-top: 40px;
+    margin-left: 35px;
+    margin-right: 35px;
+    background-color: white;
+}
+
+.bg-about-us p{
+    padding-top: 10px;
+padding: 15px;
 }
