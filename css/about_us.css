@@ -19,7 +19,7 @@
 
 .topic-objective {
     padding-left: 10px;
-    border-left: crimson solid 5px;
+    border-left: 6px solid #2c3e50;
     text-align: left;
     font-size: 35px;
     margin-bottom: 25px;
@@ -54,4 +54,25 @@
 .content-objective p {
     padding-bottom: 10px;
     font-size: 18px;
+}
+
+.act-part{
+    margin-top: 30px;
+    margin-left: 35px;
+    background-color: black;
+    height: 230px;
+    border-radius: 10px;
+}
+
+.act-part p{
+    text-align: left;
+    padding-top: 30px;
+    font-size: 18px;
+    color: silver;
+}
+
+.act-part h1{
+    padding-top: 50px;
+    font-size: 50px;
+    color: white;
 }
