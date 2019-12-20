@@ -1,8 +1,5 @@
 .icons {
-    float: left;
-    margin-right: 5%;
-    display: table;
-    text-align: center;
+    padding-top: 15px;
 }
 
 .heading-about {
@@ -10,31 +7,32 @@
     padding-bottom: 60px;
 }
 
-.heading-about h2{
+.heading-about h2 {
     text-align: center;
     font-size: 40px;
 }
 
-.heading-about h3{
+.heading-about h3 {
     text-align: center;
     font-size: 25px;
 }
 
-.topic-objective{
+.topic-objective {
     padding-left: 10px;
     border-left: crimson solid 5px;
     text-align: left;
     font-size: 35px;
 }
 
-.bg-about-us{
+.bg-about-us {
     margin-top: 40px;
     margin-left: 35px;
     margin-right: 35px;
     background-color: white;
+    border-radius: 10px;
 }
 
-.bg-about-us p{
+.bg-about-us p {
     padding-top: 10px;
-padding: 15px;
+    padding: 15px;
 }
