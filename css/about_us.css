@@ -17,13 +17,13 @@
     font-size: 25px;
 }
 
-.topic-objective {
+/* .topic-objective {
     padding-left: 10px;
     border-left: 6px solid #2c3e50;
-    text-align: left;
+    text-align: center;
     font-size: 35px;
-    margin-bottom: 25px;
-}
+    
+} */
 
 .bg-about-us {
     margin-top: 40px;
@@ -36,6 +36,15 @@
 .bg-about-us p {
     padding-top: 10px;
     padding: 15px;
+    margin-bottom: 30px;
+    
+}
+
+.bg-about-us h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 60px;
+
 }
 
 .content-objective {
@@ -75,4 +84,26 @@
     padding-top: 50px;
     font-size: 50px;
     color: white;
+}
+
+.paid-part{
+    height: 500px;
+    background: linear-gradient(to right, #2c3e50, #4ca1af);
+    margin-top: 35px;
+    margin-left: 35px;
+    border-radius: 10px;
+}
+
+.paid-part h1{
+    padding-top: 110px;
+    text-align: left;
+    font-size: 80px;
+    color: white;
+}
+
+.paid-part p{
+   margin-top: -40px;
+    text-align: left;
+    font-size: 18px;
+    color: silver;
 }
