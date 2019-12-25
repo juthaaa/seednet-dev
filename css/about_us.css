@@ -102,8 +102,99 @@
 }
 
 .paid-part p{
-   margin-top: -40px;
+    margin-top: -40px;
     text-align: left;
     font-size: 18px;
     color: silver;
 }
+
+
+/*Mean Design*/
+.paid-part2{
+    background: white;
+    margin-top: 35px;
+    margin-left: 35px;
+    border-radius: 10px;
+}
+
+.paid-part2 h1{
+    /*padding-top: 110px;*/
+    text-align: left;
+    font-size: 80px;
+    color: black;
+}
+
+.paid-part2 p{
+    margin-top: -40px;
+    padding-right: 25px;
+    text-align: left;
+    font-size: 18px;
+    color: #757575;
+    word-wrap: break-word;
+    text-align: justify;
+}
+.paid-part2 img{
+    width: 100%;
+    padding: 20px 0px 20px 0px;
+}
+
+.bg-about-us2 img{
+    width: 100%;
+}
+
+.act-part2{
+    margin-top: 30px;
+    margin-left: 35px;
+    background-color: white;
+    height: 230px;
+    border-radius: 10px;
+    background-image: url("images/test-bg.png");
+}
+
+.act-part2 p{
+    text-align: left;
+    padding-top: 30px;
+    font-size: 18px;
+    color: #757575;
+}
+
+.act-part2 h1{
+    padding-top: 50px;
+    font-size: 50px;
+    color: black;
+    font-weight: bold;
+}
+
+.act-part2 img{
+    position: absolute;
+    width: 100%;
+}
+
+.bg-about-us2 {
+    margin-top: 40px;
+    margin-left: 35px;
+    margin-right: 35px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.bg-about-us2 p {
+    padding-top: 10px;
+    padding: 15px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    
+}
+
+.bg-about-us2 h1 {
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 60px;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+
+
+
